@@ -1,0 +1,590 @@
+Senator,Ticker,Transaction Date,Received Date,Holding Days,Investor Type,Transaction Price,Received Price,Price Diff ($),Price Diff (%)
+Thomas R. Carper,DELL,2024-01-02,2024-02-01,30,Long-Term,74.79,85.78,10.99,14.69
+Tommy Tuberville,SOLV,2024-05-03,2024-06-13,41,Long-Term,64.65,54.13,-10.52,-16.27
+Tommy Tuberville,DECK,2024-04-05,2024-05-14,39,Long-Term,146.65,147.08,0.43,0.29
+Tommy Tuberville,LULU,2024-04-05,2024-05-14,39,Long-Term,356.87,352.35,-4.52,-1.27
+John Fetterman,BX,2024-10-15,2024-11-12,28,Long-Term,156.32,180.66,24.34,15.57
+Sheldon Whitehouse,KVUE,2023-09-20,2023-10-16,26,Long-Term,20.89,19.54,-1.35,-6.46
+Markwayne Mullin,PANW,2023-10-03,2023-10-31,28,Long-Term,115.86,121.51,5.65,4.88
+Markwayne Mullin,PANW,2023-09-13,2023-10-11,28,Long-Term,123.15,129.6,6.45,5.24
+Markwayne Mullin,AXON,2024-01-04,2024-01-25,21,Long-Term,244.93,252.7,7.77,3.17
+Markwayne Mullin,AXON,2024-01-04,2024-01-25,21,Long-Term,244.93,252.7,7.77,3.17
+Tommy Tuberville,NDSN,2023-04-03,2023-05-11,38,Long-Term,220.31,216.24,-4.07,-1.85
+Tommy Tuberville,NDSN,2023-04-03,2023-05-11,38,Long-Term,220.31,216.24,-4.07,-1.85
+Tommy Tuberville,NDSN,2023-04-03,2023-05-10,37,Long-Term,220.31,216.4,-3.91,-1.77
+Tommy Tuberville,BRO,2024-04-05,2024-05-14,39,Long-Term,85.15,88.45,3.3,3.88
+Tommy Tuberville,NXPI,2023-10-17,2023-11-15,29,Long-Term,197.72,200.75,3.03,1.53
+Tommy Tuberville,MPWR,2023-10-17,2023-11-15,29,Long-Term,476.56,547.6,71.04,14.91
+Tommy Tuberville,TSLA,2023-10-17,2023-11-15,29,Long-Term,254.85,242.84,-12.01,-4.71
+Sheldon Whitehouse,TSLA,2023-09-20,2023-10-16,26,Long-Term,262.59,253.92,-8.67,-3.3
+Tommy Tuberville,TSLA,2023-04-03,2023-05-11,38,Long-Term,194.77,172.08,-22.69,-11.65
+Tommy Tuberville,TSLA,2023-04-03,2023-05-11,38,Long-Term,194.77,172.08,-22.69,-11.65
+Tommy Tuberville,TSLA,2023-04-03,2023-05-10,37,Long-Term,194.77,168.54,-26.23,-13.47
+Sheldon Whitehouse,TSLA,2022-01-28,2022-03-15,46,Long-Term,282.12,267.3,-14.82,-5.25
+Tommy Tuberville,PAYC,2022-10-06,2022-11-10,35,Long-Term,353.6,329.75,-23.85,-6.74
+Tommy Tuberville,PAYC,2022-10-06,2022-11-09,34,Long-Term,353.6,299.51,-54.09,-15.3
+Tommy Tuberville,ODFL,2024-04-05,2024-05-14,39,Long-Term,224.57,181.94,-42.63,-18.98
+Markwayne Mullin,TMUS,2023-10-03,2023-11-01,29,Long-Term,136.43,145.05,8.62,6.32
+Markwayne Mullin,TMUS,2023-09-13,2023-10-11,28,Long-Term,141.5,143.12,1.62,1.14
+Tommy Tuberville,DOW,2022-01-12,2022-02-14,33,Long-Term,59.26,60.83,1.57,2.65
+Tommy Tuberville,DOW,2022-01-12,2022-02-13,32,Long-Term,59.26,60.83,1.57,2.65
+Tommy Tuberville,JKHY,2024-04-05,2024-05-14,39,Long-Term,170.03,165.69,-4.34,-2.55
+Tommy Tuberville,FTNT,2023-10-17,2023-11-15,29,Long-Term,58.65,51.06,-7.59,-12.94
+Tommy Tuberville,CDNS,2022-03-30,2022-04-08,9,Short-Term,163.31,158.24,-5.07,-3.1
+Tommy Tuberville,CDNS,2022-03-30,2022-04-07,8,Short-Term,163.31,163.13,-0.18,-0.11
+Markwayne Mullin,IQV,2024-08-20,2024-09-18,29,Long-Term,246.94,242.67,-4.27,-1.73
+Thomas R. Carper,MGM,2023-01-04,2023-02-02,29,Long-Term,35.54,41.39,5.85,16.46
+Thomas R. Carper,MGM,2023-01-04,2023-02-01,28,Long-Term,35.54,41.91,6.37,17.92
+Tommy Tuberville,RMD,2023-10-17,2023-11-15,29,Long-Term,141.84,152.15,10.31,7.27
+Thomas R. Carper,RMD,2023-08-29,2023-09-04,6,Short-Term,163.93,153.89,-10.04,-6.12
+Tommy Tuberville,RMD,2022-03-30,2022-04-08,9,Short-Term,249.01,249.33,0.32,0.13
+Tommy Tuberville,RMD,2022-03-30,2022-04-07,8,Short-Term,249.01,252.08,3.07,1.23
+Dan Sullivan,ALGN,2023-01-10,2023-02-13,34,Long-Term,232.25,325.26,93.01,40.05
+Markwayne Mullin,HLT,2023-10-03,2023-10-31,28,Long-Term,146.77,151.53,4.76,3.24
+Markwayne Mullin,HLT,2023-09-13,2023-10-11,28,Long-Term,153.39,153.69,0.3,0.2
+Tommy Tuberville,IT,2022-03-30,2022-04-08,9,Short-Term,301.55,299.68,-1.87,-0.62
+Tommy Tuberville,IT,2022-03-30,2022-04-07,8,Short-Term,301.55,294.75,-6.8,-2.26
+Markwayne Mullin,AMD,2024-01-02,2024-01-25,23,Long-Term,138.58,180.33,41.75,30.13
+Markwayne Mullin,AMD,2023-10-03,2023-10-31,28,Long-Term,100.08,98.5,-1.58,-1.58
+Markwayne Mullin,AMD,2023-09-13,2023-10-11,28,Long-Term,107.71,108.31,0.6,0.56
+Tommy Tuberville,SNPS,2024-04-05,2024-05-14,39,Long-Term,575.45,559.63,-15.82,-2.75
+Tommy Tuberville,IDXX,2023-04-03,2023-05-11,38,Long-Term,489.27,486.73,-2.54,-0.52
+Tommy Tuberville,IDXX,2023-04-03,2023-05-11,38,Long-Term,489.27,486.73,-2.54,-0.52
+Tommy Tuberville,IDXX,2023-04-03,2023-05-10,37,Long-Term,489.27,485.11,-4.16,-0.85
+Thomas R. Carper,D,2024-03-28,2024-03-28,0,Short-Term,49.19,49.19,0.0,0.0
+Thomas R. Carper,DLR,2023-01-11,2023-02-02,22,Long-Term,105.03,119.92,14.89,14.18
+Thomas R. Carper,DLR,2023-01-11,2023-02-01,21,Long-Term,105.03,116.15,11.12,10.59
+Thomas R. Carper,DLR,2022-01-18,2022-02-03,16,Long-Term,155.87,147.0,-8.87,-5.69
+Thomas R. Carper,DLR,2022-01-18,2022-02-02,15,Long-Term,155.87,149.23,-6.64,-4.26
+Tommy Tuberville,CFG,2023-06-12,2023-07-13,31,Long-Term,27.41,28.38,0.97,3.54
+Tommy Tuberville,CFG,2023-05-08,2023-06-14,37,Long-Term,25.76,27.1,1.34,5.2
+Tommy Tuberville,CFG,2022-03-30,2022-04-08,9,Short-Term,46.8,41.83,-4.97,-10.62
+Tommy Tuberville,CFG,2022-03-30,2022-04-07,8,Short-Term,46.8,41.65,-5.15,-11.0
+Tommy Tuberville,EXR,2022-10-06,2022-11-10,35,Long-Term,172.11,163.09,-9.02,-5.24
+Tommy Tuberville,EXR,2022-10-06,2022-11-09,34,Long-Term,172.11,151.63,-20.48,-11.9
+Dan Sullivan,CHD,2023-02-10,2023-03-16,34,Long-Term,82.89,85.96,3.07,3.7
+Dan Sullivan,CHD,2023-02-21,2023-03-16,23,Long-Term,83.99,85.96,1.97,2.35
+Tommy Tuberville,PYPL,2024-04-30,2024-05-14,14,Short-Term,67.92,64.58,-3.34,-4.92
+Tommy Tuberville,PYPL,2023-05-10,2023-06-14,35,Long-Term,63.38,63.6,0.22,0.35
+Tommy Tuberville,PYPL,2023-05-11,2023-06-14,34,Long-Term,64.18,63.6,-0.58,-0.9
+Tommy Tuberville,PYPL,2022-12-05,2023-01-13,39,Long-Term,73.62,79.48,5.86,7.96
+Tommy Tuberville,PYPL,2022-12-08,2023-01-13,36,Long-Term,74.22,79.48,5.26,7.09
+Tommy Tuberville,PYPL,2022-12-05,2023-01-12,38,Long-Term,73.62,79.78,6.16,8.37
+Tommy Tuberville,PYPL,2022-12-08,2023-01-12,35,Long-Term,74.22,79.78,5.56,7.49
+Tommy Tuberville,PYPL,2022-11-07,2022-12-14,37,Long-Term,77.66,72.63,-5.03,-6.48
+Tommy Tuberville,PYPL,2022-11-07,2022-12-13,36,Long-Term,77.66,73.7,-3.96,-5.1
+Tommy Tuberville,PYPL,2022-06-29,2022-07-13,14,Short-Term,71.47,71.36,-0.11,-0.15
+Tommy Tuberville,PYPL,2022-06-17,2022-07-13,26,Long-Term,72.9,71.36,-1.54,-2.11
+Tommy Tuberville,PYPL,2022-06-16,2022-07-13,27,Long-Term,71.23,71.36,0.13,0.18
+Tommy Tuberville,PYPL,2022-06-15,2022-07-13,28,Long-Term,75.83,71.36,-4.47,-5.89
+Tommy Tuberville,PYPL,2022-06-17,2022-07-12,25,Long-Term,72.9,71.43,-1.47,-2.02
+Tommy Tuberville,PYPL,2022-06-15,2022-07-12,27,Long-Term,75.83,71.43,-4.4,-5.8
+Tommy Tuberville,PYPL,2022-06-16,2022-07-12,26,Long-Term,71.23,71.43,0.2,0.28
+Tommy Tuberville,PYPL,2022-06-29,2022-07-12,13,Short-Term,71.47,71.43,-0.04,-0.06
+Tommy Tuberville,PYPL,2022-05-20,2022-06-13,24,Long-Term,80.54,73.72,-6.82,-8.47
+Tommy Tuberville,PYPL,2022-05-19,2022-06-13,25,Long-Term,81.28,73.72,-7.56,-9.3
+Tommy Tuberville,PYPL,2022-05-20,2022-06-12,23,Long-Term,80.54,73.72,-6.82,-8.47
+Tommy Tuberville,PYPL,2022-05-19,2022-06-12,24,Long-Term,81.28,73.72,-7.56,-9.3
+Tommy Tuberville,PYPL,2022-04-28,2022-05-13,15,Long-Term,92.09,78.83,-13.26,-14.4
+Tommy Tuberville,PYPL,2022-04-11,2022-05-13,32,Long-Term,109.81,78.83,-30.98,-28.21
+Tommy Tuberville,PYPL,2022-04-11,2022-05-12,31,Long-Term,109.81,74.29,-35.52,-32.35
+Tommy Tuberville,PYPL,2022-04-28,2022-05-12,14,Short-Term,92.09,74.29,-17.8,-19.33
+Tommy Tuberville,PYPL,2022-02-07,2022-03-11,32,Long-Term,121.41,96.57,-24.84,-20.46
+Tommy Tuberville,PYPL,2022-02-09,2022-03-11,30,Long-Term,122.94,96.57,-26.37,-21.45
+Tommy Tuberville,PYPL,2022-02-07,2022-03-10,31,Long-Term,121.41,98.55,-22.86,-18.83
+Tommy Tuberville,PYPL,2022-02-09,2022-03-10,29,Long-Term,122.94,98.55,-24.39,-19.84
+Gary Peters,O,2023-03-14,2023-04-12,29,Long-Term,63.22,61.92,-1.3,-2.06
+Gary Peters,O,2023-03-14,2023-04-11,28,Long-Term,63.22,62.1,-1.12,-1.77
+Tommy Tuberville,SWKS,2024-04-29,2024-05-14,15,Long-Term,107.86,94.42,-13.44,-12.46
+Tommy Tuberville,SWKS,2024-04-05,2024-05-14,39,Long-Term,105.48,94.42,-11.06,-10.49
+John Boozman,SWKS,2023-06-29,2023-07-12,13,Short-Term,109.88,112.85,2.97,2.7
+Shelley Moore Capito,AVGO,2024-12-12,2025-01-05,24,Long-Term,180.66,236.41,55.75,30.86
+Shelley Moore Capito,AVGO,2024-08-27,2024-09-04,8,Short-Term,161.39,154.12,-7.27,-4.5
+Shelley Moore Capito,AVGO,2024-07-01,2024-08-10,40,Long-Term,164.08,148.26,-15.82,-9.64
+Tommy Tuberville,AVGO,2023-04-03,2023-05-11,38,Long-Term,64.25,62.77,-1.48,-2.3
+Tommy Tuberville,AVGO,2023-04-03,2023-05-11,38,Long-Term,64.25,62.77,-1.48,-2.3
+Tommy Tuberville,AVGO,2023-04-03,2023-05-10,37,Long-Term,64.25,62.63,-1.62,-2.52
+John Boozman,GOOGL,2024-07-26,2024-08-05,10,Short-Term,167.0,159.25,-7.75,-4.64
+Markwayne Mullin,GOOGL,2023-10-03,2023-10-31,28,Long-Term,132.43,124.08,-8.35,-6.31
+Markwayne Mullin,GOOGL,2023-09-13,2023-10-11,28,Long-Term,136.71,140.55,3.84,2.81
+Markwayne Mullin,META,2024-01-02,2024-01-25,23,Long-Term,346.29,393.18,46.89,13.54
+Tommy Tuberville,META,2023-10-17,2023-11-15,29,Long-Term,324.0,332.71,8.71,2.69
+Markwayne Mullin,META,2023-10-03,2023-10-31,28,Long-Term,300.94,301.27,0.33,0.11
+Markwayne Mullin,META,2023-09-13,2023-10-11,28,Long-Term,305.06,327.82,22.76,7.46
+Dan Sullivan,META,2022-11-22,2022-12-21,29,Long-Term,111.44,119.76,8.32,7.47
+Tommy Tuberville,AME,2022-03-30,2022-04-08,9,Short-Term,135.43,131.82,-3.61,-2.67
+Tommy Tuberville,AME,2022-03-30,2022-04-07,8,Short-Term,135.43,132.3,-3.13,-2.31
+Tommy Tuberville,VRTX,2022-10-06,2022-11-10,35,Long-Term,298.63,311.03,12.4,4.15
+Tommy Tuberville,VRTX,2022-10-06,2022-11-09,34,Long-Term,298.63,309.34,10.71,3.59
+Shelley Moore Capito,ZTS,2024-02-27,2024-03-14,16,Long-Term,199.0,173.88,-25.12,-12.62
+Markwayne Mullin,ZTS,2024-01-04,2024-01-25,21,Long-Term,194.04,187.32,-6.72,-3.46
+Markwayne Mullin,ZTS,2024-01-04,2024-01-25,21,Long-Term,194.04,187.32,-6.72,-3.46
+Markwayne Mullin,ZTS,2023-10-03,2023-10-31,28,Long-Term,170.33,157.0,-13.33,-7.83
+Markwayne Mullin,ZTS,2023-09-13,2023-10-11,28,Long-Term,182.0,176.95,-5.05,-2.77
+Dan Sullivan,ZTS,2022-11-30,2023-07-26,238,Long-Term,154.14,192.0,37.86,24.56
+Dan Sullivan,ZTS,2023-01-10,2023-02-13,34,Long-Term,154.36,163.14,8.78,5.69
+Dan Sullivan,ZTS,2022-11-30,2022-12-21,21,Long-Term,154.14,144.92,-9.22,-5.98
+John Fetterman,GM,2024-10-17,2024-11-12,26,Long-Term,49.38,57.41,8.03,16.26
+Tommy Tuberville,REGN,2023-04-03,2023-05-11,38,Long-Term,826.19,745.57,-80.62,-9.76
+Tommy Tuberville,REGN,2023-04-03,2023-05-11,38,Long-Term,826.19,745.57,-80.62,-9.76
+Tommy Tuberville,REGN,2023-04-03,2023-05-10,37,Long-Term,826.19,749.59,-76.6,-9.27
+Tommy Tuberville,ABBV,2024-04-03,2024-05-14,41,Long-Term,177.33,161.59,-15.74,-8.88
+Tommy Tuberville,ABBV,2023-10-17,2023-11-15,29,Long-Term,149.18,137.6,-11.58,-7.76
+Tommy Tuberville,ABBV,2022-03-30,2022-04-08,9,Short-Term,163.75,174.96,11.21,6.85
+Tommy Tuberville,ABBV,2022-03-30,2022-04-07,8,Short-Term,163.75,173.28,9.53,5.82
+Tommy Tuberville,GRMN,2023-04-03,2023-05-11,38,Long-Term,100.72,103.56,2.84,2.82
+Tommy Tuberville,GRMN,2023-04-03,2023-05-11,38,Long-Term,100.72,103.56,2.84,2.82
+Tommy Tuberville,GRMN,2023-04-03,2023-05-10,37,Long-Term,100.72,103.83,3.11,3.09
+Tommy Tuberville,MDLZ,2023-11-22,2023-12-14,22,Long-Term,71.49,70.7,-0.79,-1.11
+John Boozman,MDLZ,2022-03-14,2022-04-07,24,Long-Term,59.34,62.89,3.55,5.98
+Markwayne Mullin,LRCX,2024-01-02,2024-01-25,23,Long-Term,74.93,86.56,11.63,15.52
+Markwayne Mullin,LRCX,2023-10-03,2023-10-31,28,Long-Term,61.81,58.82,-2.99,-4.84
+Markwayne Mullin,LRCX,2023-09-13,2023-10-11,28,Long-Term,65.87,64.17,-1.7,-2.58
+Dan Sullivan,LRCX,2022-11-30,2023-07-26,238,Long-Term,47.24,64.24,17.0,35.99
+Dan Sullivan,LRCX,2022-11-30,2022-12-21,21,Long-Term,47.24,44.79,-2.45,-5.19
+Tommy Tuberville,MNST,2023-10-17,2023-11-15,29,Long-Term,49.79,55.42,5.63,11.31
+Sheldon Whitehouse,CCI,2024-05-10,2024-06-05,26,Long-Term,99.51,102.38,2.87,2.88
+Tommy Tuberville,TEL,2024-04-05,2024-05-14,39,Long-Term,144.65,149.29,4.64,3.21
+Thomas R. Carper,MOS,2023-02-21,2023-03-01,8,Short-Term,48.86,54.26,5.4,11.05
+Thomas R. Carper,MOS,2023-02-21,2023-02-28,7,Short-Term,48.86,53.19,4.33,8.86
+Thomas R. Carper,MOS,2022-01-18,2022-02-03,16,Long-Term,43.61,42.94,-0.67,-1.54
+Thomas R. Carper,MOS,2022-01-18,2022-02-02,15,Long-Term,43.61,44.17,0.56,1.28
+Shelley Moore Capito,ACN,2023-09-22,2023-10-13,21,Long-Term,316.09,301.83,-14.26,-4.51
+John Fetterman,FCX,2024-06-21,2024-07-12,21,Long-Term,49.56,51.28,1.72,3.47
+Markwayne Mullin,CMG,2023-10-03,2023-10-31,28,Long-Term,36.74,38.84,2.1,5.72
+Markwayne Mullin,CMG,2023-09-13,2023-10-11,28,Long-Term,38.66,36.47,-2.19,-5.66
+Markwayne Mullin,BLK,2023-10-03,2023-10-31,28,Long-Term,625.47,612.28,-13.19,-2.11
+Markwayne Mullin,BLK,2023-09-13,2023-10-11,28,Long-Term,697.23,642.67,-54.56,-7.83
+Markwayne Mullin,EW,2023-10-03,2023-10-31,28,Long-Term,69.6,63.72,-5.88,-8.45
+Markwayne Mullin,EW,2023-09-13,2023-10-11,28,Long-Term,73.17,71.14,-2.03,-2.77
+Tommy Tuberville,NFLX,2024-04-05,2024-05-14,39,Long-Term,636.18,613.66,-22.52,-3.54
+Thomas R. Carper,TT,2023-06-20,2023-06-29,9,Short-Term,185.71,189.99,4.28,2.3
+Thomas R. Carper,JCI,2022-01-18,2022-02-03,16,Long-Term,74.74,68.88,-5.86,-7.84
+Thomas R. Carper,JCI,2022-01-18,2022-02-02,15,Long-Term,74.74,72.32,-2.42,-3.24
+Markwayne Mullin,V,2023-10-03,2023-10-31,28,Long-Term,228.81,235.1,6.29,2.75
+Markwayne Mullin,V,2023-09-13,2023-10-11,28,Long-Term,247.83,235.68,-12.15,-4.9
+Tommy Tuberville,V,2023-05-24,2023-06-14,21,Long-Term,222.25,223.44,1.19,0.54
+Thomas R. Carper,V,2022-01-18,2022-02-03,16,Long-Term,215.71,231.54,15.83,7.34
+Thomas R. Carper,V,2022-01-18,2022-02-02,15,Long-Term,215.71,235.42,19.71,9.14
+Tommy Tuberville,NDAQ,2022-03-30,2022-04-08,9,Short-Term,60.63,61.14,0.51,0.84
+Tommy Tuberville,NDAQ,2022-03-30,2022-04-07,8,Short-Term,60.63,61.0,0.37,0.61
+Tommy Tuberville,APH,2023-04-03,2023-05-11,38,Long-Term,40.61,37.56,-3.05,-7.51
+Tommy Tuberville,APH,2023-04-03,2023-05-11,38,Long-Term,40.61,37.56,-3.05,-7.51
+Tommy Tuberville,APH,2023-04-03,2023-05-10,37,Long-Term,40.61,37.73,-2.88,-7.09
+Markwayne Mullin,CRM,2023-10-03,2023-10-31,28,Long-Term,199.83,200.83,1.0,0.5
+Markwayne Mullin,CRM,2023-09-13,2023-10-11,28,Long-Term,218.8,206.85,-11.95,-5.46
+Markwayne Mullin,MA,2023-10-03,2023-10-31,28,Long-Term,391.06,376.35,-14.71,-3.76
+Markwayne Mullin,MA,2023-09-13,2023-10-11,28,Long-Term,416.3,399.81,-16.49,-3.96
+Thomas R. Carper,AMT,2023-01-11,2023-02-02,22,Long-Term,228.12,227.39,-0.73,-0.32
+Thomas R. Carper,AMT,2023-01-11,2023-02-01,21,Long-Term,228.12,227.14,-0.98,-0.43
+Tommy Tuberville,AMT,2022-10-05,2022-11-10,36,Long-Term,214.14,220.9,6.76,3.16
+Tommy Tuberville,AMT,2022-10-05,2022-11-09,35,Long-Term,214.14,201.04,-13.1,-6.12
+Thomas R. Carper,AMT,2022-01-18,2022-02-03,16,Long-Term,250.23,250.7,0.47,0.19
+Thomas R. Carper,AMT,2022-01-18,2022-02-02,15,Long-Term,250.23,252.34,2.11,0.84
+Markwayne Mullin,ICE,2023-10-03,2023-10-31,28,Long-Term,107.59,107.44,-0.15,-0.14
+Markwayne Mullin,ICE,2023-09-13,2023-10-11,28,Long-Term,116.77,111.45,-5.32,-4.56
+Tommy Tuberville,MCHP,2024-04-03,2024-05-14,41,Long-Term,88.14,93.86,5.72,6.49
+Tommy Tuberville,MCHP,2023-10-17,2023-11-15,29,Long-Term,78.91,82.5,3.59,4.55
+Susan M. Collins,FIS,2024-06-05,2024-07-12,37,Long-Term,75.96,76.42,0.46,0.61
+Thomas R. Carper,CME,2024-01-17,2024-02-01,15,Long-Term,202.97,205.79,2.82,1.39
+Thomas R. Carper,CME,2023-01-11,2023-02-02,22,Long-Term,175.64,176.0,0.36,0.2
+Thomas R. Carper,CME,2023-01-11,2023-02-01,21,Long-Term,175.64,175.54,-0.1,-0.06
+Dan Sullivan,GOOG,2023-02-10,2023-03-16,34,Long-Term,94.86,101.07,6.21,6.55
+Dan Sullivan,GOOG,2022-11-22,2022-12-21,29,Long-Term,97.33,90.25,-7.08,-7.27
+Tommy Tuberville,GOOG,2022-03-30,2022-04-08,9,Short-Term,142.64,134.01,-8.63,-6.05
+Tommy Tuberville,GOOG,2022-03-30,2022-04-07,8,Short-Term,142.64,136.47,-6.17,-4.33
+Richard Blumenthal,GOOG,2022-01-31,2022-03-03,31,Long-Term,135.7,134.31,-1.39,-1.02
+Markwayne Mullin,AMZN,2023-10-03,2023-10-31,28,Long-Term,124.72,133.09,8.37,6.71
+Markwayne Mullin,AMZN,2023-09-13,2023-10-11,28,Long-Term,144.85,131.83,-13.02,-8.99
+Dan Sullivan,AMZN,2023-01-10,2023-02-13,34,Long-Term,89.87,99.54,9.67,10.76
+Dan Sullivan,AMZN,2022-11-22,2022-12-21,29,Long-Term,93.2,86.77,-6.43,-6.9
+Richard Blumenthal,AMZN,2022-01-31,2022-03-03,31,Long-Term,149.57,147.9,-1.67,-1.12
+Susan M. Collins,AMZN,2022-01-06,2022-02-17,42,Long-Term,163.25,154.65,-8.6,-5.27
+Markwayne Mullin,STZ,2023-10-03,2023-10-31,28,Long-Term,248.33,234.15,-14.18,-5.71
+Markwayne Mullin,STZ,2023-09-13,2023-10-11,28,Long-Term,260.18,239.0,-21.18,-8.14
+Tommy Tuberville,DHI,2022-03-30,2022-04-08,9,Short-Term,78.89,70.83,-8.06,-10.22
+Tommy Tuberville,DHI,2022-03-30,2022-04-07,8,Short-Term,78.89,70.39,-8.5,-10.77
+Markwayne Mullin,TMO,2023-10-03,2023-10-31,28,Long-Term,499.61,444.77,-54.84,-10.98
+Markwayne Mullin,TMO,2023-09-13,2023-10-11,28,Long-Term,510.9,492.63,-18.27,-3.58
+Dan Sullivan,TMO,2022-11-30,2023-07-26,238,Long-Term,560.22,574.41,14.19,2.53
+Dan Sullivan,TMO,2022-11-30,2022-12-21,21,Long-Term,560.22,539.89,-20.33,-3.63
+Tommy Tuberville,TMO,2022-03-30,2022-04-08,9,Short-Term,595.15,608.86,13.71,2.3
+Tommy Tuberville,TMO,2022-03-30,2022-04-07,8,Short-Term,595.15,612.21,17.06,2.87
+Tommy Tuberville,GILD,2024-05-10,2024-06-13,34,Long-Term,65.96,63.56,-2.4,-3.64
+Tommy Tuberville,GILD,2024-04-05,2024-05-14,39,Long-Term,69.58,67.65,-1.93,-2.77
+Thomas R. Carper,VLO,2024-01-17,2024-02-01,15,Long-Term,126.31,138.29,11.98,9.48
+Thomas R. Carper,VLO,2023-12-11,2024-01-02,22,Long-Term,123.48,130.66,7.18,5.81
+Markwayne Mullin,VLO,2023-09-13,2023-10-11,28,Long-Term,145.48,129.6,-15.88,-10.92
+Shelley Moore Capito,CMCSA,2023-12-01,2024-01-11,41,Long-Term,42.21,43.27,1.06,2.51
+Markwayne Mullin,CMCSA,2023-10-03,2023-10-31,28,Long-Term,43.45,41.29,-2.16,-4.97
+Markwayne Mullin,CMCSA,2023-09-13,2023-10-11,28,Long-Term,45.19,44.24,-0.95,-2.1
+Markwayne Mullin,ELV,2023-10-03,2023-10-31,28,Long-Term,433.51,450.09,16.58,3.82
+Markwayne Mullin,ELV,2023-09-13,2023-10-11,28,Long-Term,443.19,453.57,10.38,2.34
+Angus King,EA,2023-12-27,2024-01-16,20,Long-Term,136.71,137.15,0.44,0.32
+Angus King,EA,2022-12-21,2023-01-18,28,Long-Term,122.5,123.71,1.21,0.99
+Sheldon Whitehouse,GS,2024-06-27,2024-07-15,18,Long-Term,445.96,492.23,46.27,10.38
+Markwayne Mullin,GS,2024-01-04,2024-01-25,21,Long-Term,382.95,382.7,-0.25,-0.07
+Markwayne Mullin,GS,2024-01-04,2024-01-25,21,Long-Term,382.95,382.7,-0.25,-0.07
+Markwayne Mullin,GS,2023-10-03,2023-10-31,28,Long-Term,306.12,303.61,-2.51,-0.82
+Markwayne Mullin,GS,2023-09-13,2023-10-11,28,Long-Term,334.98,313.02,-21.96,-6.56
+Thomas R. Carper,NVDA,2024-03-07,2024-03-28,21,Long-Term,92.67,90.36,-2.31,-2.49
+Markwayne Mullin,NVDA,2024-01-02,2024-01-25,23,Long-Term,48.17,61.62,13.45,27.92
+Markwayne Mullin,NVDA,2023-10-03,2023-10-31,28,Long-Term,43.52,40.78,-2.74,-6.3
+Markwayne Mullin,NVDA,2023-09-13,2023-10-11,28,Long-Term,45.49,46.81,1.32,2.9
+Tommy Tuberville,NVDA,2023-04-03,2023-05-11,38,Long-Term,27.97,28.58,0.61,2.18
+Tommy Tuberville,NVDA,2023-04-03,2023-05-11,38,Long-Term,27.97,28.58,0.61,2.18
+Tommy Tuberville,NVDA,2023-04-03,2023-05-10,37,Long-Term,27.97,28.89,0.92,3.29
+Dan Sullivan,NVDA,2022-11-22,2022-12-21,29,Long-Term,16.04,16.5,0.46,2.87
+Tommy Tuberville,NVDA,2022-06-15,2022-07-13,28,Long-Term,16.53,15.16,-1.37,-8.29
+Tommy Tuberville,NVDA,2022-06-08,2022-07-13,35,Long-Term,18.65,15.16,-3.49,-18.71
+Tommy Tuberville,NVDA,2022-06-15,2022-07-12,27,Long-Term,16.53,15.08,-1.45,-8.77
+Tommy Tuberville,NVDA,2022-06-08,2022-07-12,34,Long-Term,18.65,15.08,-3.57,-19.14
+Susan M. Collins,NVDA,2022-01-06,2022-02-17,42,Long-Term,28.18,24.51,-3.67,-13.02
+Thomas R. Carper,NVDA,2022-01-31,2022-02-03,3,Short-Term,24.49,23.95,-0.54,-2.2
+Thomas R. Carper,NVDA,2022-01-31,2022-02-02,2,Short-Term,24.49,25.24,0.75,3.06
+Markwayne Mullin,FI,2023-10-03,2023-10-31,28,Long-Term,111.05,113.75,2.7,2.43
+Markwayne Mullin,FI,2023-09-13,2023-10-11,28,Long-Term,121.3,113.55,-7.75,-6.39
+Tommy Tuberville,TXN,2023-10-17,2023-11-15,29,Long-Term,154.26,151.87,-2.39,-1.55
+Tommy Tuberville,TXN,2023-10-11,2023-11-15,35,Long-Term,157.33,151.87,-5.46,-3.47
+Markwayne Mullin,TXN,2023-10-03,2023-10-31,28,Long-Term,157.25,142.01,-15.24,-9.69
+Tommy Tuberville,TXN,2023-09-14,2023-10-12,28,Long-Term,166.05,155.0,-11.05,-6.65
+Tommy Tuberville,TXN,2023-09-18,2023-10-12,24,Long-Term,162.83,155.0,-7.83,-4.81
+Markwayne Mullin,TXN,2023-09-13,2023-10-11,28,Long-Term,164.36,157.33,-7.03,-4.28
+Shelley Moore Capito,SBUX,2024-02-23,2024-03-14,20,Long-Term,95.62,91.66,-3.96,-4.14
+Thomas R. Carper,SBUX,2024-01-17,2024-02-01,15,Long-Term,91.77,93.37,1.6,1.74
+Thomas R. Carper,SBUX,2023-12-11,2024-01-02,22,Long-Term,98.12,93.67,-4.45,-4.54
+Markwayne Mullin,SBUX,2023-10-03,2023-10-31,28,Long-Term,89.48,92.24,2.76,3.08
+Markwayne Mullin,SBUX,2023-09-13,2023-10-11,28,Long-Term,96.93,91.95,-4.98,-5.14
+Tommy Tuberville,A,2024-04-05,2024-05-14,39,Long-Term,144.12,151.28,7.16,4.97
+Tommy Tuberville,A,2023-04-03,2023-05-11,38,Long-Term,137.86,127.66,-10.2,-7.4
+Tommy Tuberville,A,2022-04-03,2023-05-11,403,Long-Term,134.81,127.66,-7.15,-5.3
+Tommy Tuberville,A,2022-04-03,2023-05-10,402,Long-Term,134.81,128.06,-6.75,-5.01
+Tommy Tuberville,ROK,2023-10-17,2023-11-15,29,Long-Term,290.55,270.17,-20.38,-7.01
+Thomas R. Carper,ROK,2023-08-22,2023-09-04,13,Short-Term,292.64,307.2,14.56,4.98
+Tommy Tuberville,QCOM,2024-04-29,2024-05-14,15,Long-Term,169.2,188.97,19.77,11.68
+Tommy Tuberville,QCOM,2023-09-13,2023-10-12,29,Long-Term,112.64,111.46,-1.18,-1.05
+Tommy Tuberville,QCOM,2023-08-31,2023-09-14,14,Short-Term,114.53,114.04,-0.49,-0.43
+Tommy Tuberville,QCOM,2023-06-06,2023-07-13,37,Long-Term,116.36,123.12,6.76,5.81
+Tommy Tuberville,QCOM,2023-06-02,2023-07-13,41,Long-Term,115.62,123.12,7.5,6.49
+Tommy Tuberville,QCOM,2023-06-08,2023-07-13,35,Long-Term,116.35,123.12,6.77,5.82
+Tommy Tuberville,QCOM,2023-06-01,2023-07-13,42,Long-Term,115.83,123.12,7.29,6.29
+Tommy Tuberville,QCOM,2023-05-08,2023-06-14,37,Long-Term,108.31,123.4,15.09,13.93
+Tommy Tuberville,QCOM,2022-12-01,2023-01-13,43,Long-Term,126.81,120.24,-6.57,-5.18
+Tommy Tuberville,QCOM,2022-12-01,2023-01-12,42,Long-Term,126.81,121.59,-5.22,-4.12
+Tommy Tuberville,QCOM,2022-06-16,2022-07-13,27,Long-Term,120.82,135.64,14.82,12.27
+Tommy Tuberville,QCOM,2022-06-15,2022-07-13,28,Long-Term,131.03,135.64,4.61,3.52
+Tommy Tuberville,QCOM,2022-06-16,2022-07-12,26,Long-Term,120.82,132.95,12.13,10.04
+Tommy Tuberville,QCOM,2022-06-15,2022-07-12,27,Long-Term,131.03,132.95,1.92,1.47
+Tommy Tuberville,CCL,2024-04-29,2024-05-14,15,Long-Term,15.13,14.52,-0.61,-4.03
+Markwayne Mullin,DHR,2023-09-13,2023-10-11,28,Long-Term,223.77,216.43,-7.34,-3.28
+Thomas R. Carper,AES,2024-01-17,2024-02-01,15,Long-Term,17.4,17.16,-0.24,-1.38
+John Boozman,AES,2023-03-10,2023-04-10,31,Long-Term,23.26,24.9,1.64,7.05
+Thomas R. Carper,WM,2023-02-21,2023-03-01,8,Short-Term,152.54,148.83,-3.71,-2.43
+Thomas R. Carper,WM,2023-02-21,2023-02-28,7,Short-Term,152.54,149.76,-2.78,-1.82
+Tommy Tuberville,RF,2023-05-08,2023-06-14,37,Long-Term,16.4,18.01,1.61,9.82
+Tommy Tuberville,RF,2022-03-30,2022-04-08,9,Short-Term,22.65,20.75,-1.9,-8.39
+Tommy Tuberville,RF,2022-03-30,2022-04-07,8,Short-Term,22.65,20.42,-2.23,-9.85
+Tommy Tuberville,MCO,2023-10-17,2023-11-15,29,Long-Term,321.4,350.7,29.3,9.12
+Gary Peters,TFC,2023-03-14,2023-04-12,29,Long-Term,31.88,33.21,1.33,4.17
+Gary Peters,TFC,2023-03-14,2023-04-11,28,Long-Term,31.88,33.7,1.82,5.71
+Markwayne Mullin,KLAC,2023-09-13,2023-10-11,28,Long-Term,483.6,482.63,-0.97,-0.2
+Tommy Tuberville,ADBE,2024-05-08,2024-06-13,36,Long-Term,488.1,458.74,-29.36,-6.02
+Markwayne Mullin,ADBE,2024-01-02,2024-01-25,23,Long-Term,580.07,622.58,42.51,7.33
+Markwayne Mullin,ADBE,2023-10-03,2023-10-31,28,Long-Term,507.03,532.06,25.03,4.94
+Markwayne Mullin,ADBE,2023-09-13,2023-10-11,28,Long-Term,553.56,549.91,-3.65,-0.66
+Dan Sullivan,ADBE,2022-11-22,2022-12-21,29,Long-Term,330.88,341.38,10.5,3.17
+Markwayne Mullin,AZO,2023-10-03,2023-10-31,28,Long-Term,2472.04,2477.13,5.09,0.21
+Markwayne Mullin,AZO,2023-09-13,2023-10-11,28,Long-Term,2531.04,2571.86,40.82,1.61
+Tommy Tuberville,AON,2023-10-17,2023-11-15,29,Long-Term,327.54,329.7,2.16,0.66
+Tommy Tuberville,FITB,2024-05-07,2024-06-13,37,Long-Term,38.03,35.61,-2.42,-6.36
+Tommy Tuberville,FITB,2023-06-12,2023-07-13,31,Long-Term,25.92,27.42,1.5,5.79
+Tommy Tuberville,FITB,2023-05-08,2023-06-14,37,Long-Term,24.41,25.95,1.54,6.31
+Tommy Tuberville,FITB,2022-03-30,2022-04-08,9,Short-Term,44.28,40.55,-3.73,-8.42
+Tommy Tuberville,FITB,2022-03-30,2022-04-07,8,Short-Term,44.28,40.44,-3.84,-8.67
+Markwayne Mullin,AMAT,2024-12-11,2024-12-30,19,Long-Term,171.13,163.64,-7.49,-4.38
+Tommy Tuberville,AMAT,2024-04-04,2024-05-14,40,Long-Term,203.39,209.82,6.43,3.16
+John Boozman,AMAT,2024-03-28,2024-05-07,40,Long-Term,206.23,207.32,1.09,0.53
+Markwayne Mullin,AMAT,2024-01-02,2024-01-25,23,Long-Term,154.37,172.63,18.26,11.83
+Tommy Tuberville,AMAT,2023-10-17,2023-11-15,29,Long-Term,142.72,155.37,12.65,8.86
+Markwayne Mullin,AMAT,2023-10-03,2023-10-31,28,Long-Term,136.72,132.35,-4.37,-3.2
+Markwayne Mullin,AMAT,2023-09-13,2023-10-11,28,Long-Term,144.58,142.18,-2.4,-1.66
+Markwayne Mullin,BSX,2023-10-03,2023-10-31,28,Long-Term,51.54,51.19,-0.35,-0.68
+Markwayne Mullin,BSX,2023-09-13,2023-10-11,28,Long-Term,53.2,50.91,-2.29,-4.3
+Tommy Tuberville,PARA,2024-03-21,2024-04-14,24,Long-Term,11.82,10.9,-0.92,-7.78
+Tommy Tuberville,PARA,2023-12-26,2024-01-11,16,Long-Term,15.02,13.35,-1.67,-11.12
+Tommy Tuberville,PARA,2023-09-18,2023-10-12,24,Long-Term,13.6,11.73,-1.87,-13.75
+Markwayne Mullin,UNH,2023-10-03,2023-10-31,28,Long-Term,509.47,535.56,26.09,5.12
+Shelley Moore Capito,UNH,2023-09-22,2023-10-13,21,Long-Term,506.1,539.4,33.3,6.58
+Markwayne Mullin,UNH,2023-09-13,2023-10-11,28,Long-Term,479.84,524.13,44.29,9.23
+Sheldon Whitehouse,MSFT,2024-06-13,2024-07-15,32,Long-Term,441.58,453.96,12.38,2.8
+John Boozman,MSFT,2024-06-20,2024-07-10,20,Long-Term,445.7,466.25,20.55,4.61
+Markwayne Mullin,MSFT,2023-10-03,2023-10-31,28,Long-Term,313.39,338.11,24.72,7.89
+Markwayne Mullin,MSFT,2023-09-13,2023-10-11,28,Long-Term,336.06,332.42,-3.64,-1.08
+Dan Sullivan,MSFT,2022-11-30,2023-07-26,238,Long-Term,255.14,337.77,82.63,32.39
+Dan Sullivan,MSFT,2022-11-30,2022-12-21,21,Long-Term,255.14,244.43,-10.71,-4.2
+Dan Sullivan,MSFT,2022-11-22,2022-12-21,29,Long-Term,245.03,244.43,-0.6,-0.24
+Tommy Tuberville,MSFT,2022-11-23,2022-12-14,21,Long-Term,247.58,257.22,9.64,3.89
+Tommy Tuberville,MSFT,2022-11-23,2022-12-13,20,Long-Term,247.58,256.92,9.34,3.77
+Tommy Tuberville,MSFT,2022-10-24,2022-11-10,17,Long-Term,247.25,242.98,-4.27,-1.73
+Tommy Tuberville,MSFT,2022-10-13,2022-11-10,28,Long-Term,234.24,242.98,8.74,3.73
+Tommy Tuberville,MSFT,2022-10-13,2022-11-09,27,Long-Term,234.24,224.51,-9.73,-4.15
+Tommy Tuberville,MSFT,2022-10-24,2022-11-09,16,Long-Term,247.25,224.51,-22.74,-9.2
+Tommy Tuberville,MSFT,2022-09-19,2022-10-12,23,Long-Term,244.52,225.75,-18.77,-7.68
+Tommy Tuberville,MSFT,2022-09-19,2022-10-11,22,Long-Term,244.52,225.41,-19.11,-7.82
+Richard Blumenthal,MSFT,2022-01-31,2022-03-03,31,Long-Term,310.98,295.92,-15.06,-4.84
+Tommy Tuberville,KEY,2024-05-09,2024-06-13,35,Long-Term,15.08,13.64,-1.44,-9.55
+Tommy Tuberville,KEY,2023-12-26,2024-01-11,16,Long-Term,14.45,14.39,-0.06,-0.42
+Tommy Tuberville,KEY,2023-11-21,2023-12-14,23,Long-Term,12.01,14.77,2.76,22.98
+Tommy Tuberville,KEY,2023-07-25,2023-08-13,19,Long-Term,11.62,11.02,-0.6,-5.16
+Tommy Tuberville,KEY,2023-06-12,2023-07-13,31,Long-Term,10.22,10.61,0.39,3.82
+Tommy Tuberville,KEY,2023-05-08,2023-06-14,37,Long-Term,9.68,9.91,0.23,2.38
+Tommy Tuberville,KEY,2022-03-30,2022-04-08,9,Short-Term,23.01,20.77,-2.24,-9.73
+Tommy Tuberville,KEY,2022-03-30,2022-04-07,8,Short-Term,23.01,20.73,-2.28,-9.91
+Shelley Moore Capito,CSCO,2023-12-01,2024-01-11,41,Long-Term,48.47,50.44,1.97,4.06
+Tommy Tuberville,CSCO,2022-10-06,2022-11-10,35,Long-Term,41.52,45.66,4.14,9.97
+Tommy Tuberville,CSCO,2022-10-06,2022-11-09,34,Long-Term,41.52,43.91,2.39,5.76
+John Boozman,CSCO,2022-03-14,2022-04-07,24,Long-Term,54.3,54.63,0.33,0.61
+Tommy Tuberville,CSCO,2022-01-12,2022-02-14,33,Long-Term,62.12,53.18,-8.94,-14.39
+Tommy Tuberville,CSCO,2022-01-12,2022-02-13,32,Long-Term,62.12,53.18,-8.94,-14.39
+Markwayne Mullin,COST,2023-10-03,2023-10-31,28,Long-Term,565.04,552.44,-12.6,-2.23
+Markwayne Mullin,COST,2023-09-18,2023-10-11,23,Long-Term,562.72,565.52,2.8,0.5
+Shelley Moore Capito,COST,2022-07-01,2022-08-10,40,Long-Term,485.76,539.82,54.06,11.13
+Shelley Moore Capito,COST,2022-07-01,2022-08-09,39,Long-Term,485.76,535.82,50.06,10.31
+Susan M. Collins,LIN,2022-01-06,2022-02-17,42,Long-Term,338.01,298.97,-39.04,-11.55
+Tommy Tuberville,AMGN,2022-10-06,2022-11-10,35,Long-Term,230.94,291.01,60.07,26.01
+Tommy Tuberville,AMGN,2022-10-06,2022-11-09,34,Long-Term,230.94,289.65,58.71,25.42
+Tommy Tuberville,AMGN,2022-01-12,2022-02-14,33,Long-Term,231.76,224.27,-7.49,-3.23
+Tommy Tuberville,AMGN,2022-01-12,2022-02-13,32,Long-Term,231.76,224.27,-7.49,-3.23
+Tommy Tuberville,ADSK,2023-04-03,2023-05-11,38,Long-Term,207.58,193.1,-14.48,-6.98
+Tommy Tuberville,ADSK,2023-04-03,2023-05-11,38,Long-Term,207.58,193.1,-14.48,-6.98
+Tommy Tuberville,ADSK,2023-04-03,2023-05-10,37,Long-Term,207.58,196.32,-11.26,-5.42
+Shelley Moore Capito,NKE,2024-08-28,2024-09-04,7,Short-Term,82.79,81.02,-1.77,-2.14
+Markwayne Mullin,NKE,2023-10-03,2023-10-31,28,Long-Term,95.09,102.77,7.68,8.08
+Markwayne Mullin,NKE,2023-09-13,2023-10-11,28,Long-Term,96.13,98.65,2.52,2.62
+Shelley Moore Capito,NKE,2023-06-14,2023-07-16,32,Long-Term,112.86,108.71,-4.15,-3.68
+Sheldon Whitehouse,HD,2024-06-13,2024-07-15,32,Long-Term,347.88,358.46,10.58,3.04
+Markwayne Mullin,HD,2023-10-03,2023-10-31,28,Long-Term,291.94,284.69,-7.25,-2.48
+Markwayne Mullin,HD,2023-09-13,2023-10-11,28,Long-Term,325.88,298.05,-27.83,-8.54
+Tommy Tuberville,MMC,2023-10-17,2023-11-15,29,Long-Term,190.9,195.48,4.58,2.4
+Tommy Tuberville,MMC,2022-03-30,2022-04-08,9,Short-Term,171.84,172.57,0.73,0.42
+Tommy Tuberville,MMC,2022-03-30,2022-04-07,8,Short-Term,171.84,173.23,1.39,0.81
+Tommy Tuberville,ITW,2023-10-17,2023-11-15,29,Long-Term,235.3,237.52,2.22,0.94
+Markwayne Mullin,PH,2024-06-12,2024-07-11,29,Long-Term,532.96,528.16,-4.8,-0.9
+Markwayne Mullin,TJX,2024-08-20,2024-09-18,29,Long-Term,113.31,117.25,3.94,3.48
+Dan Sullivan,TJX,2022-11-30,2023-07-26,238,Long-Term,80.05,87.42,7.37,9.21
+Dan Sullivan,TJX,2022-11-30,2022-12-21,21,Long-Term,80.05,78.84,-1.21,-1.51
+Tommy Tuberville,PHM,2023-10-17,2023-11-15,29,Long-Term,73.46,87.04,13.58,18.49
+Tommy Tuberville,PHM,2022-10-06,2022-11-10,35,Long-Term,41.27,43.78,2.51,6.08
+Tommy Tuberville,PHM,2022-10-06,2022-11-09,34,Long-Term,41.27,38.58,-2.69,-6.52
+Angus King,VZ,2024-03-07,2024-04-17,41,Long-Term,39.53,39.78,0.25,0.63
+Sheldon Whitehouse,VZ,2023-09-20,2023-10-16,26,Long-Term,33.6,31.25,-2.35,-6.99
+Tommy Tuberville,VZ,2023-07-25,2023-08-13,19,Long-Term,34.24,33.56,-0.68,-1.99
+Thomas R. Carper,VZ,2023-07-10,2023-08-01,22,Long-Term,35.14,33.43,-1.71,-4.87
+Tommy Tuberville,VZ,2023-04-03,2023-05-11,38,Long-Term,39.22,37.6,-1.62,-4.13
+Tommy Tuberville,VZ,2023-04-03,2023-05-11,38,Long-Term,39.22,37.6,-1.62,-4.13
+Tommy Tuberville,VZ,2023-04-03,2023-05-10,37,Long-Term,39.22,37.63,-1.59,-4.05
+Tommy Tuberville,VZ,2022-01-12,2022-02-14,33,Long-Term,53.45,53.27,-0.18,-0.34
+Tommy Tuberville,VZ,2022-01-12,2022-02-13,32,Long-Term,53.45,53.27,-0.18,-0.34
+Thomas R. Carper,VZ,2022-01-18,2022-02-03,16,Long-Term,53.43,53.79,0.36,0.67
+Thomas R. Carper,VZ,2022-01-18,2022-02-02,15,Long-Term,53.43,53.8,0.37,0.69
+Tommy Tuberville,AAPL,2024-01-10,2024-02-13,34,Long-Term,186.19,185.04,-1.15,-0.62
+Markwayne Mullin,AAPL,2024-01-02,2024-01-25,23,Long-Term,185.64,194.17,8.53,4.59
+Markwayne Mullin,AAPL,2023-10-03,2023-10-31,28,Long-Term,172.4,170.77,-1.63,-0.95
+Markwayne Mullin,AAPL,2023-09-13,2023-10-11,28,Long-Term,174.21,179.8,5.59,3.21
+Shelley Moore Capito,AAPL,2023-06-14,2023-07-16,32,Long-Term,183.95,193.99,10.04,5.46
+Dan Sullivan,AAPL,2022-11-22,2022-12-21,29,Long-Term,150.18,135.45,-14.73,-9.81
+Ron Wyden,AAPL,2022-02-24,2022-03-23,27,Long-Term,162.74,170.21,7.47,4.59
+Ron Wyden,AAPL,2022-02-24,2022-03-22,26,Long-Term,162.74,168.82,6.08,3.74
+Shelley Moore Capito,GWW,2022-07-11,2022-08-10,30,Long-Term,477.71,564.97,87.26,18.27
+Shelley Moore Capito,GWW,2022-07-11,2022-08-09,29,Long-Term,477.71,557.97,80.26,16.8
+Tommy Tuberville,WBA,2024-03-21,2024-04-14,24,Long-Term,20.8,17.65,-3.15,-15.14
+Tommy Tuberville,WBA,2023-07-25,2023-08-13,19,Long-Term,30.69,29.07,-1.62,-5.28
+Tommy Tuberville,WBA,2023-06-12,2023-07-13,31,Long-Term,31.64,29.74,-1.9,-6.01
+Tommy Tuberville,WBA,2023-06-13,2023-07-13,30,Long-Term,31.95,29.74,-2.21,-6.92
+Tommy Tuberville,WBA,2023-05-08,2023-06-14,37,Long-Term,31.66,31.51,-0.15,-0.47
+Tommy Tuberville,WBA,2022-01-12,2022-02-14,33,Long-Term,53.91,47.36,-6.55,-12.15
+Tommy Tuberville,WBA,2022-01-12,2022-02-13,32,Long-Term,53.91,47.36,-6.55,-12.15
+Tommy Tuberville,INTC,2024-05-08,2024-06-13,36,Long-Term,30.0,30.46,0.46,1.53
+Tommy Tuberville,INTC,2024-05-09,2024-06-13,35,Long-Term,30.09,30.46,0.37,1.23
+Tommy Tuberville,INTC,2024-05-07,2024-06-13,37,Long-Term,30.68,30.46,-0.22,-0.72
+Tommy Tuberville,INTC,2023-08-18,2023-09-14,27,Long-Term,32.75,38.67,5.92,18.08
+Tommy Tuberville,INTC,2022-11-09,2022-12-14,35,Long-Term,27.52,28.26,0.74,2.69
+Tommy Tuberville,INTC,2022-11-09,2022-12-13,34,Long-Term,27.52,28.73,1.21,4.4
+Tommy Tuberville,INTC,2022-08-05,2022-09-15,41,Long-Term,35.39,28.84,-6.55,-18.51
+Tommy Tuberville,INTC,2022-08-05,2022-09-15,41,Long-Term,35.39,28.84,-6.55,-18.51
+Tommy Tuberville,INTC,2022-08-05,2022-09-14,40,Long-Term,35.39,29.18,-6.21,-17.55
+Tommy Tuberville,INTC,2022-06-21,2022-07-13,22,Long-Term,37.73,37.21,-0.52,-1.38
+Tommy Tuberville,INTC,2022-06-09,2022-07-13,34,Long-Term,40.01,37.21,-2.8,-7.0
+Tommy Tuberville,INTC,2022-06-09,2022-07-12,33,Long-Term,40.01,37.21,-2.8,-7.0
+Tommy Tuberville,INTC,2022-06-21,2022-07-12,21,Long-Term,37.73,37.21,-0.52,-1.38
+Richard Blumenthal,INTC,2022-01-31,2022-03-03,31,Long-Term,48.82,47.93,-0.89,-1.82
+Tommy Tuberville,INTC,2022-01-12,2022-02-14,33,Long-Term,55.74,47.58,-8.16,-14.64
+Tommy Tuberville,INTC,2022-01-12,2022-02-14,33,Long-Term,55.74,47.58,-8.16,-14.64
+Tommy Tuberville,INTC,2022-01-12,2022-02-13,32,Long-Term,55.74,47.58,-8.16,-14.64
+Thomas R. Carper,TGT,2024-05-22,2024-06-02,11,Short-Term,143.27,153.03,9.76,6.81
+Thomas R. Carper,TGT,2024-02-16,2024-03-03,16,Long-Term,149.61,150.49,0.88,0.59
+Sheldon Whitehouse,TGT,2022-01-28,2022-03-15,46,Long-Term,217.67,215.35,-2.32,-1.07
+Markwayne Mullin,AXP,2023-10-03,2023-10-31,28,Long-Term,145.05,146.03,0.98,0.68
+Markwayne Mullin,AXP,2023-09-13,2023-10-11,28,Long-Term,159.14,151.51,-7.63,-4.79
+Dan Sullivan,DIS,2022-11-22,2022-12-21,29,Long-Term,96.21,86.92,-9.29,-9.66
+Thomas R. Carper,DIS,2022-01-18,2022-02-03,16,Long-Term,152.27,140.03,-12.24,-8.04
+Thomas R. Carper,DIS,2022-01-18,2022-02-02,15,Long-Term,152.27,142.62,-9.65,-6.34
+Thomas R. Carper,NEE,2023-08-29,2023-09-04,6,Short-Term,67.51,66.2,-1.31,-1.94
+Mitch McConnell,WFC,2024-12-02,2025-01-03,32,Long-Term,75.28,71.31,-3.97,-5.27
+Mitch McConnell,WFC,2024-09-01,2024-09-15,14,Short-Term,58.37,53.79,-4.58,-7.85
+Mitch McConnell,WFC,2024-06-04,2024-06-12,8,Short-Term,58.7,57.3,-1.4,-2.39
+Mitch McConnell,WFC,2024-03-05,2024-03-18,13,Short-Term,56.6,57.77,1.17,2.07
+Mitch McConnell,WFC,2023-12-05,2023-12-17,12,Short-Term,44.49,49.66,5.17,11.62
+Mitch McConnell,WFC,2023-09-01,2023-09-14,13,Short-Term,41.65,43.05,1.4,3.36
+Mitch McConnell,WFC,2023-06-05,2023-06-13,8,Short-Term,40.45,42.65,2.2,5.44
+Mitch McConnell,WFC,2023-03-03,2023-03-28,25,Long-Term,46.85,37.18,-9.67,-20.64
+Mitch McConnell,WFC,2023-03-03,2023-03-27,24,Long-Term,46.85,37.47,-9.38,-20.02
+Mitch McConnell,WFC,2022-12-05,2022-12-28,23,Long-Term,43.66,41.12,-2.54,-5.82
+Mitch McConnell,WFC,2022-09-06,2022-09-26,20,Long-Term,42.88,40.01,-2.87,-6.69
+Mitch McConnell,WFC,2022-09-06,2022-09-25,19,Long-Term,42.88,40.01,-2.87,-6.69
+Mitch McConnell,WFC,2022-06-03,2022-06-13,10,Short-Term,44.82,38.99,-5.83,-13.01
+Mitch McConnell,WFC,2022-06-03,2022-06-12,9,Short-Term,44.82,38.99,-5.83,-13.01
+Mitch McConnell,WFC,2022-03-03,2022-03-14,11,Short-Term,51.24,49.86,-1.38,-2.69
+Mitch McConnell,WFC,2022-03-03,2022-03-13,10,Short-Term,51.24,49.86,-1.38,-2.69
+Gary Peters,IFF,2023-06-06,2023-06-29,23,Long-Term,80.87,77.81,-3.06,-3.78
+Markwayne Mullin,JPM,2023-10-03,2023-10-31,28,Long-Term,142.71,139.06,-3.65,-2.56
+Markwayne Mullin,JPM,2023-09-13,2023-10-11,28,Long-Term,146.41,146.15,-0.26,-0.18
+Tommy Tuberville,HPQ,2023-10-23,2023-11-15,23,Long-Term,25.88,28.47,2.59,10.01
+Tommy Tuberville,HPQ,2023-10-30,2023-11-15,16,Long-Term,26.16,28.47,2.31,8.83
+Thomas R. Carper,JNJ,2022-01-18,2022-02-03,16,Long-Term,167.1,172.76,5.66,3.39
+Thomas R. Carper,JNJ,2022-01-18,2022-02-02,15,Long-Term,167.1,172.77,5.67,3.39
+Sheldon Whitehouse,LLY,2024-10-30,2024-11-06,7,Short-Term,846.83,776.38,-70.45,-8.32
+Sheldon Whitehouse,LLY,2023-12-14,2024-01-17,34,Long-Term,573.67,628.91,55.24,9.63
+Markwayne Mullin,LLY,2023-10-03,2023-10-31,28,Long-Term,525.19,553.93,28.74,5.47
+Sheldon Whitehouse,LLY,2023-09-20,2023-10-16,26,Long-Term,569.64,616.64,47.0,8.25
+Markwayne Mullin,LLY,2023-09-13,2023-10-11,28,Long-Term,598.88,605.28,6.4,1.07
+Tommy Tuberville,CLX,2024-04-29,2024-05-14,15,Long-Term,148.92,138.55,-10.37,-6.96
+Tommy Tuberville,CLX,2023-10-25,2023-11-15,21,Long-Term,121.97,138.01,16.04,13.15
+Tommy Tuberville,CLX,2023-09-20,2023-10-12,22,Long-Term,136.46,120.09,-16.37,-12.0
+Thomas R. Carper,EMR,2024-05-09,2024-06-02,24,Long-Term,115.59,109.03,-6.56,-5.68
+Markwayne Mullin,EMR,2023-10-03,2023-10-31,28,Long-Term,94.85,88.97,-5.88,-6.2
+Markwayne Mullin,EMR,2023-09-13,2023-10-11,28,Long-Term,97.68,97.09,-0.59,-0.6
+Markwayne Mullin,SHW,2023-10-03,2023-10-31,28,Long-Term,248.77,238.21,-10.56,-4.24
+Markwayne Mullin,SHW,2023-09-13,2023-10-11,28,Long-Term,268.46,255.54,-12.92,-4.81
+Markwayne Mullin,ABT,2023-10-03,2023-10-31,28,Long-Term,95.79,94.55,-1.24,-1.29
+Markwayne Mullin,ABT,2023-09-13,2023-10-11,28,Long-Term,102.69,92.64,-10.05,-9.79
+Thomas R. Carper,ABT,2022-10-17,2022-11-03,17,Long-Term,103.52,96.45,-7.07,-6.83
+Thomas R. Carper,ABT,2022-10-17,2022-11-02,16,Long-Term,103.52,98.04,-5.48,-5.29
+Tommy Tuberville,BMY,2024-04-03,2024-05-14,41,Long-Term,52.18,44.71,-7.47,-14.32
+Tommy Tuberville,BMY,2023-10-17,2023-11-15,29,Long-Term,57.37,51.57,-5.8,-10.11
+Thomas R. Carper,BMY,2022-01-18,2022-02-03,16,Long-Term,64.89,64.07,-0.82,-1.26
+Thomas R. Carper,BMY,2022-01-18,2022-02-02,15,Long-Term,64.89,64.8,-0.09,-0.14
+Markwayne Mullin,CAT,2023-10-03,2023-10-31,28,Long-Term,268.97,226.05,-42.92,-15.96
+Markwayne Mullin,CAT,2023-09-13,2023-10-11,28,Long-Term,275.92,272.83,-3.09,-1.12
+Shelley Moore Capito,CMS,2022-06-01,2022-07-15,44,Long-Term,70.83,66.2,-4.63,-6.54
+Shelley Moore Capito,CMS,2022-06-01,2022-07-14,43,Long-Term,70.83,65.79,-5.04,-7.12
+Markwayne Mullin,COP,2023-10-03,2023-10-31,28,Long-Term,117.6,118.8,1.2,1.02
+Markwayne Mullin,COP,2023-09-13,2023-10-11,28,Long-Term,122.31,120.04,-2.27,-1.86
+Markwayne Mullin,CSX,2023-10-03,2023-10-31,28,Long-Term,30.77,29.85,-0.92,-2.99
+Markwayne Mullin,CSX,2023-09-13,2023-10-11,28,Long-Term,30.5,31.61,1.11,3.64
+Thomas R. Carper,CVS,2022-10-17,2022-11-03,17,Long-Term,90.89,97.8,6.91,7.6
+Thomas R. Carper,CVS,2022-10-17,2022-11-02,16,Long-Term,90.89,96.8,5.91,6.5
+Tommy Tuberville,CVX,2024-05-07,2024-06-13,37,Long-Term,162.67,152.84,-9.83,-6.04
+Tommy Tuberville,CVX,2024-04-29,2024-05-14,15,Long-Term,166.33,163.61,-2.72,-1.64
+Tommy Tuberville,CVX,2023-12-14,2024-01-11,28,Long-Term,149.93,145.28,-4.65,-3.1
+Shelley Moore Capito,CVX,2023-12-01,2024-01-11,41,Long-Term,144.81,145.28,0.47,0.32
+Tommy Tuberville,CVX,2023-12-13,2024-01-11,29,Long-Term,144.61,145.28,0.67,0.46
+Markwayne Mullin,CVX,2023-10-03,2023-10-31,28,Long-Term,166.93,145.73,-21.2,-12.7
+Markwayne Mullin,CVX,2023-09-13,2023-10-11,28,Long-Term,166.2,161.1,-5.1,-3.07
+Tommy Tuberville,CVX,2023-06-12,2023-07-13,31,Long-Term,157.33,157.51,0.18,0.11
+Shelley Moore Capito,CVX,2023-02-06,2023-03-13,35,Long-Term,169.64,158.71,-10.93,-6.44
+Tommy Tuberville,CVX,2022-01-12,2022-02-14,33,Long-Term,127.33,136.67,9.34,7.34
+Tommy Tuberville,CVX,2022-01-12,2022-02-13,32,Long-Term,127.33,136.67,9.34,7.34
+Markwayne Mullin,DE,2023-10-03,2023-10-31,28,Long-Term,372.78,365.36,-7.42,-1.99
+Markwayne Mullin,DE,2023-09-13,2023-10-11,28,Long-Term,402.23,389.36,-12.87,-3.2
+Markwayne Mullin,ETN,2024-01-04,2024-01-25,21,Long-Term,234.48,245.82,11.34,4.84
+Markwayne Mullin,ETN,2024-01-04,2024-01-25,21,Long-Term,234.48,245.82,11.34,4.84
+Tommy Tuberville,F,2023-08-14,2023-09-14,31,Long-Term,12.2,12.62,0.42,3.44
+Tommy Tuberville,F,2023-04-26,2023-05-11,15,Long-Term,11.54,11.87,0.33,2.86
+Tommy Tuberville,F,2023-04-28,2023-05-11,13,Short-Term,11.88,11.87,-0.01,-0.08
+Tommy Tuberville,F,2023-04-27,2023-05-11,14,Short-Term,11.61,11.87,0.26,2.24
+Tommy Tuberville,F,2023-04-28,2023-05-11,13,Short-Term,11.88,11.87,-0.01,-0.08
+Tommy Tuberville,F,2023-04-26,2023-05-11,15,Long-Term,11.54,11.87,0.33,2.86
+Tommy Tuberville,F,2023-04-27,2023-05-11,14,Short-Term,11.61,11.87,0.26,2.24
+Tommy Tuberville,F,2023-04-27,2023-05-10,13,Short-Term,11.61,11.89,0.28,2.41
+Tommy Tuberville,F,2023-04-28,2023-05-10,12,Short-Term,11.88,11.89,0.01,0.08
+Tommy Tuberville,F,2023-04-26,2023-05-10,14,Short-Term,11.54,11.89,0.35,3.03
+Tommy Tuberville,F,2022-11-17,2022-12-14,27,Long-Term,13.91,13.48,-0.43,-3.09
+Tommy Tuberville,F,2022-11-17,2022-12-13,26,Long-Term,13.91,13.57,-0.34,-2.44
+Tommy Tuberville,F,2022-09-12,2022-10-12,30,Long-Term,15.54,11.54,-4.0,-25.74
+Tommy Tuberville,F,2022-09-12,2022-10-11,29,Long-Term,15.54,11.56,-3.98,-25.61
+Shelley Moore Capito,GE,2024-12-27,2025-01-05,9,Short-Term,170.08,172.45,2.37,1.39
+Tommy Tuberville,GIS,2022-10-06,2022-11-10,35,Long-Term,74.97,79.58,4.61,6.15
+Tommy Tuberville,GIS,2022-10-06,2022-11-09,34,Long-Term,74.97,80.34,5.37,7.16
+Markwayne Mullin,HON,2023-10-03,2023-10-31,28,Long-Term,181.14,183.26,2.12,1.17
+Markwayne Mullin,HON,2023-09-13,2023-10-11,28,Long-Term,191.59,187.4,-4.19,-2.19
+Tommy Tuberville,HON,2022-03-30,2022-04-08,9,Short-Term,196.54,190.16,-6.38,-3.25
+Tommy Tuberville,HON,2022-03-30,2022-04-07,8,Short-Term,196.54,192.7,-3.84,-1.95
+Susan M. Collins,HSY,2022-01-21,2022-02-17,27,Long-Term,200.35,202.03,1.68,0.84
+Tommy Tuberville,IBM,2022-01-12,2022-02-14,33,Long-Term,133.59,130.15,-3.44,-2.58
+Tommy Tuberville,IBM,2022-01-12,2022-02-13,32,Long-Term,133.59,130.15,-3.44,-2.58
+Gary Peters,IBM,2022-01-03,2022-01-07,4,Short-Term,136.04,134.83,-1.21,-0.89
+Tommy Tuberville,KMB,2024-04-18,2024-05-14,26,Long-Term,125.61,135.1,9.49,7.56
+Thomas R. Carper,KMB,2023-12-11,2024-01-02,22,Long-Term,120.97,122.36,1.39,1.15
+Tommy Tuberville,KMB,2023-09-15,2023-10-12,27,Long-Term,125.01,119.75,-5.26,-4.21
+Tommy Tuberville,KMB,2023-09-13,2023-10-12,29,Long-Term,124.99,119.75,-5.24,-4.19
+Tommy Tuberville,KMB,2023-09-08,2023-10-12,34,Long-Term,127.48,119.75,-7.73,-6.06
+Tommy Tuberville,KMB,2023-03-10,2023-04-12,33,Long-Term,122.34,136.73,14.39,11.76
+Tommy Tuberville,KMB,2023-03-10,2023-04-11,32,Long-Term,122.34,135.99,13.65,11.16
+Sheldon Whitehouse,KO,2024-10-08,2024-11-06,29,Long-Term,69.18,63.7,-5.48,-7.92
+Sheldon Whitehouse,KO,2023-12-07,2024-01-17,41,Long-Term,58.74,59.99,1.25,2.13
+Tommy Tuberville,KO,2023-10-17,2023-11-15,29,Long-Term,54.07,57.21,3.14,5.81
+Markwayne Mullin,KO,2023-10-03,2023-10-31,28,Long-Term,54.88,56.49,1.61,2.93
+Markwayne Mullin,KO,2023-09-13,2023-10-11,28,Long-Term,58.44,53.71,-4.73,-8.09
+Tommy Tuberville,KO,2022-01-12,2022-02-14,33,Long-Term,60.54,60.68,0.14,0.23
+Tommy Tuberville,KO,2022-01-12,2022-02-13,32,Long-Term,60.54,60.68,0.14,0.23
+Tommy Tuberville,KR,2023-10-03,2023-11-15,43,Long-Term,44.27,44.51,0.24,0.54
+Tommy Tuberville,KR,2023-09-28,2023-10-12,14,Short-Term,45.09,44.26,-0.83,-1.84
+Mitch McConnell,KR,2022-11-29,2022-12-28,29,Long-Term,49.35,44.58,-4.77,-9.67
+Tommy Tuberville,MMM,2023-10-17,2023-11-15,29,Long-Term,75.71,80.95,5.24,6.92
+Tommy Tuberville,MMM,2023-07-25,2023-08-13,19,Long-Term,91.83,86.47,-5.36,-5.84
+Tommy Tuberville,MMM,2023-04-14,2023-05-11,27,Long-Term,88.43,84.26,-4.17,-4.72
+Tommy Tuberville,MMM,2023-04-03,2023-05-11,38,Long-Term,87.43,84.26,-3.17,-3.63
+Tommy Tuberville,MMM,2023-04-14,2023-05-11,27,Long-Term,88.43,84.26,-4.17,-4.72
+Tommy Tuberville,MMM,2023-04-03,2023-05-11,38,Long-Term,87.43,84.26,-3.17,-3.63
+Tommy Tuberville,MMM,2023-04-14,2023-05-10,26,Long-Term,88.43,84.36,-4.07,-4.6
+Tommy Tuberville,MMM,2023-04-03,2023-05-10,37,Long-Term,87.43,84.36,-3.07,-3.51
+Tommy Tuberville,MMM,2022-01-12,2022-02-14,33,Long-Term,150.01,132.11,-17.9,-11.93
+Tommy Tuberville,MMM,2022-01-12,2022-02-13,32,Long-Term,150.01,132.11,-17.9,-11.93
+Tommy Tuberville,MRK,2022-03-30,2022-04-08,9,Short-Term,82.4,87.68,5.28,6.41
+Tommy Tuberville,MRK,2022-03-30,2022-04-07,8,Short-Term,82.4,86.8,4.4,5.34
+John Boozman,MSI,2024-07-26,2024-08-05,10,Short-Term,393.71,399.64,5.93,1.51
+Tommy Tuberville,MSI,2024-04-05,2024-05-14,39,Long-Term,352.3,361.05,8.75,2.48
+Tommy Tuberville,NOC,2022-03-30,2022-04-08,9,Short-Term,453.33,463.66,10.33,2.28
+Tommy Tuberville,NOC,2022-03-30,2022-04-07,8,Short-Term,453.33,470.77,17.44,3.85
+Tommy Tuberville,NSC,2023-04-03,2023-05-11,38,Long-Term,208.78,210.31,1.53,0.73
+Tommy Tuberville,NSC,2023-04-03,2023-05-11,38,Long-Term,208.78,210.31,1.53,0.73
+Tommy Tuberville,NSC,2023-04-03,2023-05-10,37,Long-Term,208.78,208.5,-0.28,-0.13
+Thomas R. Carper,OXY,2024-05-09,2024-06-02,24,Long-Term,64.24,60.57,-3.67,-5.71
+Tommy Tuberville,OXY,2023-05-22,2023-06-14,23,Long-Term,59.04,58.47,-0.57,-0.97
+Tommy Tuberville,OXY,2022-10-04,2022-11-10,37,Long-Term,66.17,70.48,4.31,6.51
+Tommy Tuberville,OXY,2022-10-04,2022-11-09,36,Long-Term,66.17,67.93,1.76,2.66
+Markwayne Mullin,PEP,2023-10-03,2023-10-31,28,Long-Term,167.7,163.28,-4.42,-2.64
+Markwayne Mullin,PEP,2023-09-13,2023-10-11,28,Long-Term,179.68,162.62,-17.06,-9.49
+Tommy Tuberville,PFE,2024-02-27,2024-03-14,16,Long-Term,26.89,28.13,1.24,4.61
+John Boozman,PFE,2023-12-20,2024-01-07,18,Long-Term,27.63,29.58,1.95,7.06
+John Boozman,PFE,2023-12-20,2024-01-07,18,Long-Term,27.63,29.58,1.95,7.06
+Tommy Tuberville,PFE,2023-07-25,2023-08-13,19,Long-Term,37.06,36.07,-0.99,-2.67
+Tommy Tuberville,PFE,2023-06-12,2023-07-13,31,Long-Term,39.9,36.06,-3.84,-9.62
+Tommy Tuberville,PFE,2022-01-12,2022-02-14,33,Long-Term,56.65,49.8,-6.85,-12.09
+Tommy Tuberville,PFE,2022-01-12,2022-02-13,32,Long-Term,56.65,49.8,-6.85,-12.09
+Tommy Tuberville,PG,2024-01-19,2024-02-13,25,Long-Term,147.57,156.27,8.7,5.9
+Markwayne Mullin,PG,2023-10-03,2023-10-31,28,Long-Term,145.49,150.03,4.54,3.12
+Markwayne Mullin,PG,2023-09-13,2023-10-11,28,Long-Term,153.09,143.0,-10.09,-6.59
+Markwayne Mullin,RTX,2023-10-03,2023-10-31,28,Long-Term,70.58,81.39,10.81,15.32
+Markwayne Mullin,RTX,2023-09-13,2023-10-11,28,Long-Term,75.56,73.31,-2.25,-2.98
+Thomas R. Carper,RTX,2023-02-21,2023-03-01,8,Short-Term,100.65,98.04,-2.61,-2.59
+Thomas R. Carper,RTX,2023-02-21,2023-02-28,7,Short-Term,100.65,98.09,-2.56,-2.54
+Shelley Moore Capito,SPGI,2023-12-01,2024-01-11,41,Long-Term,422.0,434.19,12.19,2.89
+Markwayne Mullin,SPGI,2023-10-03,2023-10-31,28,Long-Term,356.42,349.31,-7.11,-1.99
+Shelley Moore Capito,SPGI,2023-09-27,2023-10-13,16,Long-Term,363.06,363.71,0.65,0.18
+Markwayne Mullin,SPGI,2023-09-13,2023-10-11,28,Long-Term,389.85,371.9,-17.95,-4.6
+Markwayne Mullin,UNP,2023-10-03,2023-10-31,28,Long-Term,203.78,207.61,3.83,1.88
+Markwayne Mullin,UNP,2023-09-13,2023-10-11,28,Long-Term,212.13,209.48,-2.65,-1.25
+Tommy Tuberville,XOM,2022-10-06,2022-11-10,35,Long-Term,102.06,110.5,8.44,8.27
+Tommy Tuberville,XOM,2022-10-06,2022-11-09,34,Long-Term,102.06,108.9,6.84,6.7
